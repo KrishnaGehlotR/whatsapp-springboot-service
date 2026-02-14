@@ -5,6 +5,6 @@ server:
     port: 9090
 whatsapp:
   api-url: https://graph.facebook.com/v19.0
-  phone-number-id: 960602957134948
-  access-token: EAAWTi7YZBcJIBQfoy77pYXiNCtaCJYash1Nqf0kEyGSElu8SfwrOGA0JxTIIbg0lbaUKhLZC9TpMgYuUMKjngvkktMisQlvq4UQUFUs3nOQ6PX1JD96G5ZCE5iFhEPmkYe08to3YZBwIr3Jo3ZBwXXlbsJBPKpKLIiZBsAaQDXZBxqh0hmDLM8zkbATEWmA1ZBj6HSWNeotrLWeL4DJciihx2RoFtmqRCsfZBXxsFyTbROixExYR76DeuFvmxlFZBr1vaAzN1bgSokGyefVwsZATjZCxPuw9
+  phone-number-id: 
+  access-token: 
   verify-token: myWebhookToken
